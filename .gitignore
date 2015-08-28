@@ -1,0 +1,22 @@
+#ignore temporary vim files
+
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+#ignore log and temporary files
+
+*~
+*.log
+*.bak
+
+#ignore subcircuit files
+
+*.ic0
+*.st0
+*.tr0
+*.tr1
+*.sw0
+*.ac0
+*.pa0
