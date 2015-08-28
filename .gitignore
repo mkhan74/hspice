@@ -20,3 +20,8 @@
 *.sw0
 *.ac0
 *.pa0
+
+#ignore output files
+*.out
+*.lis
+
