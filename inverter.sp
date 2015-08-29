@@ -37,4 +37,3 @@ vin in 0 PULSE(0V 5V 20n 100p 100p 20n 40n)
  
  
 
-.end 
