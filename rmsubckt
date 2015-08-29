@@ -2,13 +2,12 @@
 
 find . -name '*.out' -type f -print -delete
 find . -name '*.lis' -type f -print -delete
-find . -name '*.ic0' -type f -print -delete
-find . -name '*.st0' -type f -print -delete
-find . -name '*.tr0' -type f -print -delete
-find . -name '*.tr1' -type f -print -delete
-find . -name '*.sw0' -type f -print -delete
-find . -name '*.ac0' -type f -print -delete
-find . -name '*.pa0' -type f -print -delete
+find . -name '*.ic*' -type f -print -delete
+find . -name '*.st*' -type f -print -delete
+find . -name '*.tr*' -type f -print -delete
+find . -name '*.sw*' -type f -print -delete
+find . -name '*.ac*' -type f -print -delete
+find . -name '*.pa*' -type f -print -delete
 find . -name '*.log' -type f -print -delete
 find . -name '*.bak' -type f -print -delete
 
