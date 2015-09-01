@@ -17,3 +17,5 @@ find . -name '*.pa*' -type f -print -delete
 find . -name '*.log' -type f -print -delete
 find . -name '*.bak' -type f -print -delete
 
+exit 0
+
