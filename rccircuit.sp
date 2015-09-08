@@ -4,7 +4,7 @@ r1 vs vo 1k
 c1 vo gnd 1uF
 .tran 0.01ms 10ms
 .print tran v(vs,vo) i(vs)
-.plot dc v(vs,vo) i(vs)
+.plot tran v(vs,vo) i(vs)
 .option post=2
 .end
 
